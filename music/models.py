@@ -21,3 +21,5 @@ class Song(models.Model):
 
     def __str__(self):
         return self.song_title
+
+# tilraun 2 með github
